@@ -1,4 +1,5 @@
 # CSGO Hacks - External CSGO cheats
+![CSGO Update](https://img.shields.io/badge/CSGO%20Update-2023.02.03-brightgreen)
 
 ![CSGO Glow ESP wallhack](extra/screenshot.jpg)
 
